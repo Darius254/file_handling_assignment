@@ -1,0 +1,6 @@
+This is line 1.
+Number: 12345
+This is line 3 with some text and numbers: 67890
+Appending line 4.
+Another number: 54321
+This is the last appended line.
